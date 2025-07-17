@@ -1,3 +1,4 @@
+git pull -> puxa do repositório remoto para o local, para atualizar o repositório local
 git status -> Verifica a branch atual
 git add . -> Prepara todos os arquivos (.), para serem enviados
 git commit -m "mensagem" -> adiciona a mensagem do commit (obrigatório)
