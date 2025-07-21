@@ -10,7 +10,7 @@ Objeto é uma instância daquela classe
 
 class Pessoa_Carol_21_07 {
     //class = classe; é comum utilizar o nome do arquivo após a classe. Sempre criar o nome do arquivo com letra maiúscula
-    constructor(peso, altura) {
+    constructor(nome, peso, altura) {
       //o construtor serve para quando for instânciar, ela chame essa função
       this.peso = peso;
       this.altura = altura;
@@ -20,4 +20,6 @@ class Pessoa_Carol_21_07 {
       return imc;
     }
   }
-  
+//quando exporta funções, coloca {}; Quando exporta classes é só o nome da Classe;
+module.exports = Pessoa_Carol_21_07;
+//Para cada classe cria um arquivo
