@@ -8,7 +8,7 @@ Objeto é uma instância daquela classe
 
 */
 
-class Pessoa {
+class Pessoa_Carol_21_07 {
     //class = classe; é comum utilizar o nome do arquivo após a classe. Sempre criar o nome do arquivo com letra maiúscula
     constructor(peso, altura) {
       //o construtor serve para quando for instânciar, ela chame essa função
