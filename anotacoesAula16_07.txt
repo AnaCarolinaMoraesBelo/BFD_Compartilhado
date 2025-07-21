@@ -1,0 +1,2 @@
+. significa onde eu estou
+.. significa voltar para um anterior

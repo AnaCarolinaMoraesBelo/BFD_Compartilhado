@@ -1,0 +1,5 @@
+Programação Sequencial         -> Modularizando
+OBS: aumentar desempenho
+Paradigma de orientação a objetos = utilizar vários produtos menores para criar um produto final com melhor qualidade, eficiência e desempenho  (Reuso de software)
+Prime Face/Prime React = site para a reutilização de códigos
+Componente é como é chamado um código que sites disponibilizam para que você reutilize e utilize em seu código
