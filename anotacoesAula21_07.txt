@@ -1,7 +1,7 @@
 Programação Sequencial         -> Modularizando
 OBS: aumentar desempenho
 Paradigma de orientação a objetos = utilizar vários produtos menores para criar um produto final com melhor qualidade, eficiência e desempenho (lembrando muito das empresas nos dias atuais, por exemplo, um computador é um produto final a partir de produtos menores como cabos, processador, memória, etc. e as empresas criam um computador a partir da produção de outras empresas)  (Reuso de software) 
-Prime Face/Prime React = site para a reutilização de códigos
+Prime React = site para a reutilização de códigos
 Componente é um código que sites disponibilizam para que você reutilize e utilize em seu código
 Funções geram novas informações
 Classe - Estrutura que eu quero respresentar
