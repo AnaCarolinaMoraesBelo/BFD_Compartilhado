@@ -8,3 +8,4 @@ OO
 
 Proteção é referente ao dado ter um valor inadequado para o contexto. Ex: a idade não pode ser -2, logo teria que ser feito um filtro para que não possa números x <= 0. Ex: aluno da educação infantil não pode aceitar pessoas com 20 anos, logo, nesse contexto teria que ser mais ou menos x<=0 && x>= 10
 
+Não instanciar um objeto no mesmo arquivo em que foi criado a classe
