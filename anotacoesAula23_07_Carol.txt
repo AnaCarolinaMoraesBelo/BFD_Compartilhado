@@ -34,5 +34,9 @@ a parte de EDA vai ser sobre UML
 
 OBS: tentar fazer a foto de UMl que eu tirei
 
-
 uma classe tem: o nome da classe, os atributos e seus métodos
+
+
+assinatura do método = nome do método, parâmetro esperado, como vai ser o retorno do método (é definido em um projeto)
+corpo do método = é o que vai ser desenvolvido dentro do médoto (não é definido em um projeto)
+
