@@ -16,3 +16,23 @@ Não instanciar um objeto no mesmo arquivo em que foi criado a classe
 
 set = método para atribuir um valor à variável protegida
 get = método para ver um valor à variável protegida
+
+
+ex: const PessoaAula21_07 = require('./PessoaAula21_07.js'); -> não é necessário utilizar o .js no final, porém é bom utilizar mesmo assim
+
+Encapsulamento (orientação a objetos)
+  ->proteção de dados (atributos)
+Planejar Objetos (Projeto Orientado a Objetos)
+  -> UML
+
+Planejar com o UML primeiro e depois ir programar
+utilizar sites para criar o UML
+
+UML = planejamneto para depois 
+
+a parte de EDA vai ser sobre UML
+
+OBS: tentar fazer a foto de UMl que eu tirei
+
+
+uma classe tem: o nome da classe, os atributos e seus métodos

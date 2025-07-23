@@ -20,10 +20,7 @@ class AlunoAula23_07 {
     }
   }
   
-  matheus = new AlunoAula23_07();
-  matheus.setMatricula(23202454);
-  console.log(matheus.getMatricula());
-  
+  module.exports = AlunoAula23_07;
   /*
     '+' = público
     '-' = privado
