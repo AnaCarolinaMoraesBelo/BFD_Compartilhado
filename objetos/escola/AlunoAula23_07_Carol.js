@@ -1,8 +1,32 @@
-class AlunoAula23_07 {  //cri a classe
-    matricula;
+/*
+class AlunoAula23_07 {
+  matricula; //visibilidade é pública
+}
+
+matheus = new AlunoAula23_07();
+matheus.matricula = 23202454;
+console.log(matheus.matricula);
+*/
+
+class AlunoAula23_07 {
+    #matricula; //visibilidade é privada
+    setMatricula(matricula) {
+      //cria um método público para a atribuição do valor privado
+      this.#matricula = matricula;
+    }
+    getMatricula() {
+      //metodo para ler o valor, neste caso a matrícula
+      return this.#matricula;
+    }
   }
   
   matheus = new AlunoAula23_07();
-  matheus.matricula = 23202454;  // atribui o valor da variável matricula
-  console.log(matheus.matricula);  //imprime na tela o valor da variável matrícula
+  matheus.setMatricula(23202454);
+  console.log(matheus.getMatricula());
+  
+  /*
+    '+' = público
+    '-' = privado
+    '#' = protegido
+  */
   
