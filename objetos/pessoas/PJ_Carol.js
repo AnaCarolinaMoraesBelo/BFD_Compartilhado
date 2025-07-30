@@ -12,7 +12,7 @@ class PF_Carol extends Pessoa_Carol_28_07 {
 */   
   setCNPJ(cnpj) { //cria-se o método setCNPJ;
     if (cnpj) { //verifica se na variável cnpj foi atribuido algum valor;
-        if (cnpj.length < 18) { //length é um comando para 
+        if (cnpj.length < 18) { //length é um comando para comparar o tamanho
             return false;
         }
       this.#cnpj = cnpj;
