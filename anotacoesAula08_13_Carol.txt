@@ -16,3 +16,16 @@ não há meio termo, por exemplo, uma pessoa tem 1 (um) endereço, uma pessoa po
 
 array(vetor) = tipo heterogênio
 o array no js pode colocar qualquer tipo dentro de um array, ex: [ 0 , "oi" , true , 3].
+
+
+var frutas = []; //Objeto array - possui atributos e métodos
+frutas.push('maçã'); //push = adicionar ao final
+frutas.push('morango');
+frutas.unshift('uva'); //unshift = adiciona ao começo
+frutas.push('banana');
+frutas.pop(); //remove o último
+frutas.shift(); //remove do início
+console.log(frutas); //conteúdo do array
+console.log(frutas.length); //imprimi o tamanho do array
+
+o método sort ordena o vetor, porém é recomendado que se utilize esse método somente quando o vetor for de um tipo só
