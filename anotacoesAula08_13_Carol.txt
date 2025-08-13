@@ -1,0 +1,5 @@
+relacionamentos:
+  - Herança;
+  - Relacionamento Simples;
+
+Relação unilateral e bilateral entre as classes.
